@@ -1,0 +1,64 @@
+.form1  div{
+    /* display: grid; */
+    /* grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); */
+    text-align: center;
+}
+
+.form1  table{
+  margin-left: 430px;
+  margin-top: 50px;
+  /* display: flex; */
+  /* justify-content: space-around; */
+}
+
+/* .form1 td{ */
+    /* gap: 30px;
+} */
+
+
+.button input{
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 20px;
+color:;
+background-color: brown;
+border-radius: 10px;
+}
+
+/* form2 */
+
+
+.form2 table{
+
+margin-left: 430px;
+}
+
+
+.button input{
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 20px;
+color:;
+background-color: brown;
+border-radius: 10px;
+}
+
+
+.button button{
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 20px;
+color:;
+background-color: brown;
+border-radius: 10px;
+}
+
+
+.first-section table{
+    margin-left: 430px;
+
+}
+
+.first-section h1{
+    margin-left: 150px;
+}
